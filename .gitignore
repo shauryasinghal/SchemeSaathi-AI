@@ -1,0 +1,29 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# generated index (rebuild with `python src/ingest.py`)
+storage/*.faiss
+storage/metadata.json
+!storage/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# logs
+*.log
+
+# frontend (Node/Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
