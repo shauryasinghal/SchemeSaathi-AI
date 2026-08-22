@@ -23,7 +23,7 @@
     
     # Build the vector index at image-build time so the container starts
     # ready to serve.
-    RUN python src/ingest.py
+    RUN python -m src.ingest
     
     EXPOSE 7860
     
