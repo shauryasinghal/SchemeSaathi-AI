@@ -420,4 +420,4 @@ See `docs/impact.md`.
 
 ## Demo Video
 
-<link https://youtu.be/0D58-IfaQsQ?si=DMWALp39nCUtMVuB/demo_script.md for the presentation script>
+[▶️ Watch the Demo Video](https://youtu.be/0D58-IfaQsQ?si=DMWALp39nCUtMVuB)
